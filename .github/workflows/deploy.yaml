@@ -3,7 +3,7 @@ name: Deploy Hakyll Site with Stack
 on:
   push:
     branches:
-      - main # mainブランチにプッシュされたら実行
+      - main
 
 jobs:
   build-and-deploy:
@@ -12,15 +12,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Haskell環境のセットアップ (Stackを使用)
       - name: Setup Haskell (Stack)
         uses: haskell/actions/setup@v2
         with:
-          ghc-version: '9.4' # お使いのGHCバージョンに合わせてください
-          stack-version: '2.15.1' # お使いのStackバージョンに合わせてください
-          # build-tool: 'stack' # Stackをデフォルトのビルドツールとして設定（任意）
+          ghc-version: '9.4'
+          stack-version: '2.15.1'
 
-      # 2. Hakyllのビルドと実行
       - name: Build and Run Hakyll (Generate _site)
         run: |
           stack clean
@@ -28,9 +25,8 @@ jobs:
           stack exec my-document-shelf clean
           stack exec my-document-shelf build
 
-      # 3. _siteフォルダをGitHub Pagesにデプロイ
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site # Hakyllが出力するフォルダ
+          publish_dir: ./_site
