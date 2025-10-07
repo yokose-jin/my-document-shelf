@@ -1,0 +1,24 @@
+<div>
+    <span class="category_of_document">ゼミのノート</span>
+    <ul>
+        $if(categories)$
+            $for(categories)$
+            <li>
+                <span class="category_of_subdocument">$category_name$</span>
+            </li>
+            <ul>
+                $if(notes)$
+                    $for(notes)$
+                    <li>
+                        <span class="pdf_title">
+                            <a href="$pdf_link$" target="_blank" rel="noopener noreferrer">$pdf_title$</a>
+                        </span>
+                    </li>
+                    <p class="caption">$caption$</p>
+                    $endfor$
+                $endif$
+            </ul>
+            $endfor$
+        $endif$
+    </ul>
+</div>

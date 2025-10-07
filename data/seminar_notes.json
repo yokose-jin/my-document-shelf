@@ -1,0 +1,44 @@
+[
+    {
+        "noteTitle": "スキームの定義",
+        "noteCaption": "スキームを定義します。",
+        "notePdfLink": "./pdf/exact_sequences_of_sheaves.pdf",
+        "noteCategory": "代数幾何"
+    },
+    {
+        "noteTitle": "射影スキームの構成",
+        "noteCaption": "射影スキームを定義します。",
+        "notePdfLink": "./pdf/exact_sequences_of_sheaves.pdf",
+        "noteCategory": "代数幾何"
+    },
+    {
+        "noteTitle": "ファイバー積の性質",
+        "noteCaption": "ファイバー積の性質をまとめます。",
+        "notePdfLink": "./pdf/exact_sequences_of_sheaves.pdf",
+        "noteCategory": "代数幾何"
+    },
+    {
+        "noteTitle": "アーベル圏の諸性質",
+        "noteCaption": "この文書では、アーベル圏を定義しこれが満たす様々な性質をまとめます。最終的には任意のアーベル圏がある環上の加群の圏の中に完全忠実充満に埋め込めるというMitchellの埋め込み定理を示します。",
+        "notePdfLink": "./pdf/abelian_categories.pdf",
+        "noteCategory": "圏論"
+    },
+    {
+        "noteTitle": "部分対象分類子",
+        "noteCaption": "トポスにおける部分対象分類子の概念を解説します。",
+        "notePdfLink": "./pdf/subobject_classifier.pdf",
+        "noteCategory": "圏論"
+    },
+    {
+        "noteTitle": "代数曲線の基礎",
+        "noteCaption": "代数曲線の基本定理についてまとめます。",
+        "notePdfLink": "./pdf/algebraic_curves.pdf",
+        "noteCategory": "代数曲線論"
+    },
+    {
+        "noteTitle": "整数論",
+        "noteCaption": "整数論について。",
+        "notePdfLink": "./pdf/algebraic_curves.pdf",
+        "noteCategory": "整数論"
+    }
+]
