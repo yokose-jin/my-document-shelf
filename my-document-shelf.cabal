@@ -13,7 +13,7 @@ build-type:          Simple
 extra-source-files:  README.md
                      CHANGELOG.md
 executable my-document-shelf
-  main-is:             main.hs
+  main-is:             Main.hs
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5,
                        aeson,

@@ -1,8 +1,132 @@
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSarray-0.5.8.0-3135-ghc9.10.3.dylib
+: hash: 762513490f67416afdcf0af5c32fd37c6329638c848439301751ec31b63f265c
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSbase-4.20.2.0-21f0-ghc9.10.3.dylib
+: hash: 518682539e062ef2322290ca743700fcb12c7298ca95fc8637c600267e7b1eec
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSbinary-0.8.9.3-17e9-ghc9.10.3.dylib
+: hash: 7fa3f7617542e2a211a1f61f80b9b45b17c8425706cebb97d8d0da7a57c6dd1d
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSbytestring-0.12.2.0-d44c-ghc9.10.3.dylib
+: hash: c3c09804e96c3a8c58872fa2e8c31b3f0b5c7226ef190dfd1d7942046361c9ee
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHScontainers-0.7-645c-ghc9.10.3.dylib
+: hash: 01156ebfc0a1a1a3efbfd4119e4394c41b91c6d306742be07711ebfa0e94877b
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSdeepseq-1.5.0.0-e420-ghc9.10.3.dylib
+: hash: 2ed113024357272c36da333021639eb787b1707cef705ee22860e88bf1b82d5e
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSexceptions-0.10.9-54fe-ghc9.10.3.dylib
+: hash: 56902961182d80ae82215ed37222e45c2ba6e3e4cb6e4a21b92aba36e0495bc0
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSfilepath-1.5.4.0-1c4f-ghc9.10.3.dylib
+: hash: 1a26074f2344b975def4add81f27712df9b8dae18f95061d0b12bbdb07cb891c
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSghc-bignum-1.3-ebe1-ghc9.10.3.dylib
+: hash: 73fca1f1656b9cb2214eeaab98b29881f5ff19c07d70547952d046e6067470d2
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSghc-boot-th-9.10.3-fb41-ghc9.10.3.dylib
+: hash: 390d164b1dc359932e4b3a96954e5bd79ad855e4835497f41daaa953abb28e19
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSghc-internal-9.1003.0-77e5-ghc9.10.3.dylib
+: hash: 6c7f98f6162b07e96676a1e829ab79961f31b475abff86924b675b2a189fd6d0
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSghc-prim-0.12.0-9969-ghc9.10.3.dylib
+: hash: 5fcae8df34f8138c004fc12404089b3d2799e78ed4fb3485ad20bb52bf8bd34f
+/Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSmtl-2.3.1-254a-ghc9.10.3.dylib:
+  hash: a2958bb928699b1a3c950d9ffa37b30eb088caf5d995fb81905f52a17284d07b
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSos-string-2.0.7-4e75-ghc9.10.3.dylib
+: hash: 7bcb952118918b7419a017a61916cd497ae7129087f22848f500289b7fef1178
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSparsec-3.1.18.0-a979-ghc9.10.3.dylib
+: hash: a3be6dad1904185e3b6f9f1f6e782f63401bf886d8ee921dd6baed9cf72c9ef6
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSpretty-1.1.3.6-4f79-ghc9.10.3.dylib
+: hash: afa8fe53a0e16cf4442707b527c1c8dab85ef7d3671af86f7610ddefcc5b96f8
+/Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHSstm-2.5.3.1-6ba5-ghc9.10.3.dylib:
+  hash: fa0b8e3d09eab71e7059d4340ab8e6cb6c9f4ee96985d6984d2a8ff98dd59f13
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHStemplate-haskell-2.22.0.0-2506-ghc9.10.3.dylib
+: hash: 41421f0eaa5b966ee856051bda765c74b4034322a66c9afb276b0268fbac9745
+/Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHStext-2.1.3-e14c-ghc9.10.3.dylib:
+  hash: 2298da3ce0d1b05e2c6d099223060008942e397a07d470f03ce542d4b3f1635b
+/Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHStime-1.12.2-1617-ghc9.10.3.dylib:
+  hash: 643158403943e1f29e3051e9355fc3134dbcd6f2e9508efecdcc63320e5e0dd8
+? /Users/jin/.stack/programs/x86_64-osx/ghc-9.10.3/lib/ghc-9.10.3/lib/x86_64-osx-ghc-9.10.3/libHStransformers-0.6.1.1-c68e-ghc9.10.3.dylib
+: hash: 5436a56ab0e7481fbd169a677a189fc52ba671ac2628623e1949bb02116f69be
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSOneTuple-0.4.2-3BqCzCOKbnBK2B9b79tYWc-ghc9.10.3.dylib
+: hash: 2780803b9ba0111b46ba42e386f7be036f4b7c4e43b1a1d5b2983cd31d34d54c
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSQuickCheck-2.15.0.1-4go9pOEjpJlHWv6LWVXlIf-ghc9.10.3.dylib
+: hash: 3bbf593bac132cbbe5e2097b3f8c794f52cb870f1d7dfd9d486e9f7e512cb19e
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSStateVar-1.2.2-Brpbi7qdoyhGWGFvbfI0wg-ghc9.10.3.dylib
+: hash: 8d11edd8fa1d3016462408af875a368ab48e6f9752650b0ed76119c14d54ee20
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSassoc-1.1.1-CwZeDEuP1u1GvxhkWEMiIm-ghc9.10.3.dylib
+: hash: 2ea9b2ff5eeb1ce4fe054803c8e6f8c170552aa8d5dc781e66a8db6f0ae7e06a
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSbase-orphans-0.9.3-Emhvb8PIiDm1sjXnE5EQDm-ghc9.10.3.dylib
+: hash: e4aefa88082596021f386748ada98255f8d30a0f4779c9d14d9ee6722aeb98fc
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSbifunctors-5.6.2-ERqnTN4nDWBBFj5okjLItg-ghc9.10.3.dylib
+: hash: 764037eb9cd7c799e07f9dc7b60da5cc47d23c9c5c345fd6d0b154d7b47add98
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHScharacter-ps-0.1-8RqMIrxEUkI6nQ49uwVPhs-ghc9.10.3.dylib
+: hash: 76625e9b0e63a26c90b4a7ad9bd2ef2ff251330fa5b56bf1986084cbf5992081
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHScomonad-5.0.9-Kb9wQdY0URm1YH47jGFXgC-ghc9.10.3.dylib
+: hash: 4b65849061d4e163a6ff917ad0e67f0c6a45a38a40519913deafb6d69f4ca261
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHScontravariant-1.5.5-AREb40ZiL8wCh2g0dG8PiZ-ghc9.10.3.dylib
+: hash: b719d6fab87339ddfa580ef9be525eac2eadc0adbcbdb36f3f20d671fcb49636
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSdata-fix-0.3.4-LFMRBfxclgNCyrMtUwCnC0-ghc9.10.3.dylib
+: hash: dd75f541286a2258c5bbd1f64bd1a2df957448a866a1672c1b486909e0b3aff7
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSdistributive-0.6.2.1-1kuopy5Qre4xyuZ2TvqWr-ghc9.10.3.dylib
+: hash: fbf7bdb0847ec9958460df6643b7571684b22cbb6fce46c4dae3853ca811df18
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSdlist-1.0-ITxogZeVawr5e2hmUziw2S-ghc9.10.3.dylib
+: hash: 600ab5814e0efcca40dd00946e0bff6b1a69edf03db114148ba527c4dc3bc0ae
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSgenerically-0.1.1-KlwO7GUvvBw9zvnAbNe8ZZ-ghc9.10.3.dylib
+: hash: 2c77c41ac9f89f3bec96c6270eb93a79e988e47f2aa0b022bc8029af44584f5e
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHShashable-1.5.0.0-FMM7OKOiB8jIiaJiKoBmbL-ghc9.10.3.dylib
+: hash: fdb40db30977486d6e1072becc2960b44d9499036d7e5ff2f93d331111dacc04
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSindexed-traversable-0.1.4-IWPuum9ThSl3ftMdHa5k5u-ghc9.10.3.dylib
+: hash: 57c58ca4b6439cddada863ec47540ed31555e83dfbd888566af33edceb0a4896
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSinteger-conversion-0.1.1-LsDS0Nfd2TUCxgOzjUHaGy-ghc9.10.3.dylib
+: hash: 13b63916e6c21ee79000cd3395aed058a6a7ade5702edfadc0e2b820454586d5
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSinteger-logarithms-1.0.4-8Jdv0J36NkfIDIMHt1IYw2-ghc9.10.3.dylib
+: hash: 7e6fd6db424dc7ceaafb65e0f72df211676c098f619eca0cdc44b1ba92bc9a0d
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSnetwork-uri-2.6.4.2-6C7n8Ylw6AGJCAG6Xuwos1-ghc9.10.3.dylib
+: hash: 7a6112ed57464c5dd2be8fd1f27a9d94579b00772324a29fbc05ccecb53dbeab
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSprimitive-0.9.1.0-Iu3FKtlLS7MHVTxztLMwCU-ghc9.10.3.dylib
+: hash: c8984467e10615df88e061a95d09555067bcafee29db115f5acb34894ea684cc
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSrandom-1.2.1.3-EHW7Pp7pll9G8un3qMUlqJ-ghc9.10.3.dylib
+: hash: f849eca55237575c0dec4910da35afe29486770a16e0840a0241c1bf80bc7d6a
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSscientific-0.3.8.0-Cc2Jl6WrIpRIbJ7n1TEpW9-ghc9.10.3.dylib
+: hash: 06d13746f2ef3b786cb8d25495f426b9bb132d7e2b51d5114d0ac51a7604fa4d
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSsplitmix-0.1.3.1-EozruNpwOdm4OpnjxJYrbd-ghc9.10.3.dylib
+: hash: 92081956277536dfdfea8f6e73d637ca351b8a3c6a6faeba05c1860ad566e0fb
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSstrict-0.5.1-5p2xvgAOtgXKe2QilKWfAO-ghc9.10.3.dylib
+: hash: b1d1347f1c3f3b465fd95f297e49d4ff39df898fb3541713e0bd50ab63618ec9
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHStagged-0.8.9-4wg74IULvBx67iM5osTJ6F-ghc9.10.3.dylib
+: hash: b2668e2ec2eeef099271e19b0b876269c7674836503e17fc12c2b388fd5ad8fb
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHStext-iso8601-0.1.1-3O3zfhFvtq93jN60pavEG2-ghc9.10.3.dylib
+: hash: 16e8c3ccb11082d5de6d608a665b9fbd4df6d7d795aaaa9a2fc59875bd5e7ef4
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHStext-short-0.1.6-JqauNkPXa1BKa0y1Ioi5FG-ghc9.10.3.dylib
+: hash: 2233873ccbf58a7d8a1b565ba799019775a167e5dee288cab65f4e654a1b9022
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSth-abstraction-0.7.1.0-4ssiZY7j97n7ZrUIS8GCdy-ghc9.10.3.dylib
+: hash: 4207a5e1e9c10cb2d144907c27f00e154b139e7ff8a4d6b307ddb1afa4689206
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSth-compat-0.1.6-7xCNhG2qb847WY7H3J2Z0s-ghc9.10.3.dylib
+: hash: 429bb6377ab109c348bece2c6e1b4c0a8d9e830a45b5ea6d59ae8b0e3a7003a2
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSthese-1.2.1-3WOWWokP2ssKQrXy2bG6BE-ghc9.10.3.dylib
+: hash: bde190b27e76f8161a20004247f7f1dde5b41d32a6fba649315c7f064e61bb04
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHStime-compat-1.9.8-8rKI3G93Ko17mh44SkiKm-ghc9.10.3.dylib
+: hash: 724c02452c51ec298fcd3dd2af96456f20c5ac7b7dfc44e72e7e928963248d11
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHStransformers-compat-0.7.2-AsQ4yhiwH3fFt1kuUUd5Ow-ghc9.10.3.dylib
+: hash: 9e571fbdcfc06cb3d9a2163af97c84b298dee7cf79fa210175cf88c08807f981
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSuuid-types-1.0.6-9tsEYIUuigrLC8wiOHKiVK-ghc9.10.3.dylib
+: hash: 678dbfd1317a4fa4571e008dcf7d7203b506a9480964860b203b7942042f93c5
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSvector-0.13.2.0-Ia7CBeAZf6s3v9jjlKBQVv-ghc9.10.3.dylib
+: hash: 27c4be7c2ba5297c5073bf084f6664d7f6018e7b1a54d74a5805fb1f4be624f4
+? /Users/jin/.stack/snapshots/x86_64-osx/02ef38e08be72e906f2ee072e6fa129c530f3f618fc9f50c652fefdc99675d6a/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSvector-stream-0.1.0.1-CNMlTsu6dlT6HwzcNvjWeZ-ghc9.10.3.dylib
+: hash: 002c950a3cebaed4896d7c29ef87c64b7037a427b825fc8d053b8c8fa13fb82e
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSaeson-2.2.3.0-G83vdk3jsrqvPwsYTI9IS-ghc9.10.3.dylib
+: hash: 4eba0cd0ef136064cca40eabb642c28f901335f2d926d2f8e1fdd64704e70565
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSindexed-traversable-instances-0.1.2-ERDfpLmdthJAIYDWW6FVNL-ghc9.10.3.dylib
+: hash: befcc13d09eb580cddb1591a9eb9986a350f4768e0cf45464059146ed58c20e5
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSsemialign-1.3.1-LCQR0N4559OD7oIYRIlRCe-ghc9.10.3.dylib
+: hash: fb8affaa0afb25988ab14568b624b362701fd971fde69839f5b7e393d1ace940
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSsemigroupoids-6.0.1-FPL9QMuHgVRGFipZgYuwfg-ghc9.10.3.dylib
+: hash: 713349339a4b7360eb158a43dadf6219ae9ed01b416b14ece47f20c41afce0c4
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSunordered-containers-0.2.20.1-Lwy9EdaTC1Fh7f77Ol8jn-ghc9.10.3.dylib
+: hash: d25ca7d6778440b0aac82ebc9dd1d3647eb72a3c451fabb9e101a008460905cf
+? /Users/jin/.stack/snapshots/x86_64-osx/89234563114bd53fa11155eb4a69d65f8d067e115f61e9ebb7b27a10cee6baca/9.10.3/lib/x86_64-osx-ghc-9.10.3-5528/libHSwitherable-0.5-28jnKJHUyxUGoZGOvO3Ugn-ghc9.10.3.dylib
+: hash: 41dfc69f3542e2f359741306055b8ad751a4df2aba832c0999a4fc92a6ee55ba
 /Users/jin/Desktop/dev/my-document-shelf/CHANGELOG.md:
   hash: 0b8d9f1dce897044b4dd456160f34f3def8a5736574949f003e5008b7b4f6acf
+/Users/jin/Desktop/dev/my-document-shelf/Main.hs:
+  hash: 48e618552974c0fa1d554f4741166e1670bf0ba1c27775f1a7a71c08935142ca
+/Users/jin/Desktop/dev/my-document-shelf/Modules/HTMLTreeTypes.hs:
+  hash: bb38e70805b77635b09bef59b0fb83b3f9556ea9a0366ae823f9f3a569ffb50b
 /Users/jin/Desktop/dev/my-document-shelf/README.md:
   hash: 2732161114c81218548387af5c82d5f705d338cff2b45248f35caf07e5779d0f
-/Users/jin/Desktop/dev/my-document-shelf/main.hs:
-  hash: a3f19ea84603b0463ccad9839b8b089509c13ad3bdf8a750effc4e8094c0b955
 /Users/jin/Desktop/dev/my-document-shelf/my-document-shelf.cabal:
-  hash: 662ee923cd9e67a3278d08f2592b7eb0ff069d0fbeadd294cfe9a97b17aa1f17
+  hash: 7575306792bdaea608c77cb55881e66cd43a739bf165093e48222da4fb36fe01
