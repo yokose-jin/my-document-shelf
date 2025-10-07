@@ -4,16 +4,16 @@ import Data.Aeson
 import Data.Aeson.TH
 
 -- liタグを型で表現
-data Li = Li {
+data NodeItem = NodeItem {
         itemTitle :: String,
         itemCaption :: Maybe String,
-        itemPdfLink :: Maybe String
+        itemLink :: Maybe String
     } deriving Show
-deriveJSON defaultOptions ''Li
+deriveJSON defaultOptions ''NodeItem
 
 -- ulタグを型で表現
-data Ul = Ul {
-        ulTitle :: Li,
-        ulChildren :: [Ul]
+data NodeTree = NodeTree {
+        treeNode :: NodeItem,
+        treeChildren :: [NodeTree]
     }
-deriveJSON defaultOptions ''Ul
+deriveJSON defaultOptions ''NodeTree
