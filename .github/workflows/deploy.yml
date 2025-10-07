@@ -20,9 +20,7 @@ jobs:
 
       - name: Build and Run Hakyll (Generate _site)
         run: |
-          stack clean
           stack build
-          stack exec my-document-shelf clean
           stack exec my-document-shelf build
 
       - name: Deploy to GitHub Pages
