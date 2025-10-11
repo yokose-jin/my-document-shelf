@@ -1,0 +1,18 @@
+<h2>$title$</h2>
+
+<ul>
+    $for(categories)$
+    <li>
+        <span class="category">$category$</span>
+
+        <ul>
+            $for(documents)$
+            <li>
+                <a href="$link$">$title$</a>
+                <p>$description$</p>
+            </li>
+            $endfor$
+        </ul>
+    </li>
+    $endfor$
+</ul>

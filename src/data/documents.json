@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Haskell入門",
+    "link": "/documents/haskell-intro.pdf",
+    "description": "Haskellの基本的な文法と概念について解説します。純粋関数型プログラミングの世界へようこそ。",
+    "category": "プログラミング"
+  },
+  {
+    "title": "Hakyllサイト構築ガイド",
+    "link": "/documents/hakyll-guide.pdf",
+    "description": "Hakyllを使った静的サイトの構築方法をステップバイステップで説明します。ブログやポートフォリオサイトの作成に最適です。",
+    "category": "Web開発"
+  },
+  {
+    "title": "圏論とプログラミング",
+    "link": "/documents/category-theory.pdf",
+    "description": "プログラマのための圏論の初歩を解説します。関手やモナドの背景にある理論を学びます。",
+    "category": "理論"
+  }
+]

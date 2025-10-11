@@ -1,32 +1,37 @@
-/* safari chrome */
 html::-webkit-scrollbar{
     display:none;
 }
 html {
-    /*IE・Edge*/
+    /*スクロールバー非表示（IE・Edge）*/
     -ms-overflow-style: none;
-    /*Firefox*/
+    /*スクロールバー非表示（Firefox）*/
     scrollbar-width: none;
 }
 body {
     font-family: 'ヒラギノ明朝 ProN','Hiragino Mincho ProN','Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
-    color : #3f3732;
-    background-color : #ede9e5;
+    color : #4a4643;
+    background-color : #f7f4ef;
 }
-main {
+#main {
     margin: 0.2em 30% 1em 1em;
 }
 a {
     text-decoration: none;
     color: inherit;
+    transition: 0.2s;
+}
+a:hover {
+    text-shadow: 1px 1px 5px #94918e8e;
+    transition: 0.3s;
 }
 .caption {
     font-size: 0.8em;
+    margin-left: 20px;
 }
 .pdf_title {
-    color: #3a597d;
+    color: #445c69;
     border-bottom: dashed 1px #3a597d;
-    text-shadow: #d6cac2 0.5px 0 2px;
+    text-shadow: rgb(213, 213, 213) 0.5px 0 2px;
 }
 .category_of_subdocument {
     font-size: 1em;
@@ -36,18 +41,79 @@ a {
     padding: 0px 0px 0px 8px;
     box-shadow: -3px 0px;
 }
-.url_link {
+.url_link_en {
     color: #9d4a4a;
     font-family: 'Courier',sans-serif;
     border-bottom: dashed 1px #9d4a4a;
-    text-shadow: rgb(198, 183, 183) 1px 0 2px;
+    text-shadow: rgb(175, 168, 168) 1px 0 2px;
+    word-break: break-all;
+}
+.url_link_jp {
+    color: #9d4a4a;
+    border-bottom: dashed 1px #9d4a4a;
+    text-shadow: rgb(175, 168, 168) 1px 0 2px;
+    word-break: break-all;
 }
 .url_link_github {
     color: #6d4b74;
     font-family: 'Courier',sans-serif;
     border-bottom: dashed 1px #6d4b74;
-    text-shadow: rgb(194, 194, 194) 1px 0 2px;
+    text-shadow: rgb(178, 175, 175) 1px 0 2px;
 }
 .quotion {
     font-size:x-small;
+}
+.page_link {
+    font-size: 1.2em;
+    color: #604f4f;
+    padding: 0px 0px 0px 8px;
+    margin-bottom: 20px;
+    background: #efece7;
+    border-left: solid 4px #5c5754;
+}
+.page_title {
+    font-size: 1.3em;
+    color : #3e3936;
+    padding: 8px 0px 8px 8px;
+    margin-left: 0px;
+    border-left:solid 4px #474a4e ;
+    border-bottom:solid 4px #d7d5d3 ;
+    background: #f0eee9;
+}
+.back_to_top {
+    font-size: 0.8em;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+#mail {
+    font-family: 'Courier',sans-serif;
+}
+ul {
+    margin-bottom: 30px;
+}
+
+
+@media screen and (max-width: 768px) {
+    #main {
+        margin: 0.2em 10% 1em 1em;
+    }
+    .caption {
+        font-size: 0.8em;
+    }
+    .category_of_subdocument {
+        font-size: 1em;
+    }
+    .category_of_document {
+        font-size: 1.2em;
+        padding: 0px 0px 0px 8px;
+        box-shadow: -3px 0px;
+    }
+    .url_link_en {
+        color: #9d4a4a;
+        font-family: 'Courier',sans-serif;
+        border-bottom: dashed 1px #9d4a4a;
+        font-size: 0.8em;
+        text-shadow: rgb(175, 168, 168) 1px 0 2px;
+        word-break: break-all;
+    }
 }
